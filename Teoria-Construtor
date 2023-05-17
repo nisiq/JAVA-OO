@@ -1,0 +1,2 @@
+Construtor = Método que inicializa classe ("NEW")
+Pode ter ou não parâmetros e sempre terá o mesmo nome da classe
