@@ -1,0 +1,45 @@
+Definir como certa estrutura vai se comportar 
+Reuso de código
+Uma classe pode ser considerada um molde através de qual objetos de um certo tipo são criados
+Uma classe abstrai um conjunto de objetos semelhantes
+Classe sempre com letra maiúscula 
+-------------------------------------------------------------------------------------------------
+Abstração = Pega um objeto do mundo real e abstrai ele pra programação
+            Modelo de um conjunto de objetos com características semelhantes.
+            Mesmas propriedades e comportamentos
+            ------------------------------------
+         EX 1 = Todos nós trabalhamos na Bosch... Mas nem por isso moramos na mesma cidade
+         
+         EX 2 = Computador 
+                Atributos (Caracteristicas/Substantivos) e Funções (Metódos/Verbos/Comportamentos)
+              
+         EX 3 = Planta de uma casa
+                Pensar que Classes é a planta de uma casa; será um molde, vai definir como o objeto vai sair, você não tem ela pronta,  mas sabe como será-definir-se comportar-estruturar
+                A casa pronta em si, é o OBJETO/INSTÂNCIA
+      
+         EX 4 = Definições no Java
+                TIPO EX: STRING: CLASSE
+                VARIÁVEL EX: NOME: OBJETO 
+
+         EX 5 = Forminha de Gelo
+                Classe = forma de gelo (definir)
+                Objeto = Gelo em si (aquilo que você realmente vai usar)
+                Uma classe pode criar vários objetos
+                - Não precisa ser totalmente igual
+    
+         EX 6 = BICICLETA
+                Todas tem duas rodas, guidão, pedal, não possuem motor... 
+                Mas nem todos possuem a mesma cor, tamanho, peças
+                Porém, todas possuem as principais características e tem as mesmas funções
+
+         EX 7 = ÔNIBUS
+               CLASSE: ONIBUS
+               INSTANCIA: 412
+               ATRIBUTOS: COR, PREÇO DA PASSAGEM, EMPRESA, TAAMANHO, PLACA
+               COMPORTAMENTOS/FUNÇÕES: Andar, Acelerar, Transportar, Freiar
+               
+         EX 8 = AVIÃO
+               CLASSE: AVIÃO
+               INSTANCIA: Avião da Nicole
+               ATRIBUTOS: Cor, Tamanho, Marca, Companhia
+               COMPORTAMENTOS/FUNÇÕES: Decolar, voar, pousar
